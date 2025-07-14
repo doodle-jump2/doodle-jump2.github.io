@@ -2,6 +2,46 @@
     {
         "name": "Doodle Jump",
         "slug": "doodle-jump",
-        "image": "/cache/data/image/game/doodle-jump/doodle-jump-m186x186.webp"
+        "image": "/cache/data/image/game/doodle-jump/doodle-jump1-m186x186.webp"
+    },
+    {
+        "name": "Om Nom Jump",
+        "slug": "om-nom-jump",
+        "image": "/cache/data/image/game/om-nom-jump/om-nom-jump-m186x186.webp"
+    },
+    {
+        "name": "Mario Doodle Jump",
+        "slug": "mario-doodle-jump",
+        "image": "/cache/data/image/game/mario-doodle-jump/mario-doodle-jump-m186x186.webp"
+    },
+    {
+        "name": "Doodle Jump Extra",
+        "slug": "doodle-jump-extra",
+        "image": "/cache/data/image/game/doodle-jump-extra/doodle-jump-extra-2-m186x186.webp"
+    },
+    {
+        "name": "Wacky Flip",
+        "slug": "wacky-flip",
+        "image": "/cache/data/image/game/wacky-flip/wacky-flip-6-m186x186.webp"
+    },
+    {
+        "name": "Doodle Jumping",
+        "slug": "doodle-jumping",
+        "image": "/cache/data/image/game/doodle-jumping/doodle-jumping-m186x186.webp"
+    },
+    {
+        "name": "Doodle Jump 3D",
+        "slug": "doodle-jump-3d",
+        "image": "/cache/data/image/game/doodle-jump-3d/doodle-jump-3d-2-m186x186.webp"
+    },
+    {
+        "name": "Doodle Jump Trump",
+        "slug": "doodle-jump-trump",
+        "image": "/cache/data/image/game/doodle-jump-trump/doodle-jump-trump-m186x186.webp"
+    },
+    {
+        "name": "Doodle Jumping: Christmas",
+        "slug": "doodle-jumping-christmas",
+        "image": "/cache/data/image/game/doodle-jumping-christmas/doodle-jumping-christmas-m186x186.webp"
     }
 ]
